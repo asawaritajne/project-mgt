@@ -78,8 +78,6 @@ Local Development Setup
 
 git clone https://github.com/asawaritajne/project-mgt.git
 
-cd project-management
-
 **Backend Setup**
 
 Navigate to server folder
