@@ -35,19 +35,19 @@ The system follows a modular full-stack structure separating client and server r
 
 **Technology Stack**
 
-Frontend
-React
-Vite
-Tailwind CSS
-Axios
+Frontend,
+React,
+Vite,
+Tailwind CSS,
+Axios,
 Clerk
 
 **Backend**
-Node.js
-Express.js
-Prisma ORM
-Neon PostgreSQL
-Inngest
+Node.js,
+Express.js,
+Prisma ORM,
+Neon PostgreSQL,
+Inngest,
 Brevo
 
 **Deployment**
